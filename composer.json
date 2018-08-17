@@ -14,7 +14,7 @@
         "php": "^7.0",
         "php-ffmpeg/php-ffmpeg": "master",
         "symfony/dependency-injection": "^3.4",
-        "symfony/framework-bundle": "^.4"
+        "symfony/framework-bundle": "^3.4"
     },
     "require-dev": {
         "symfony/phpunit-bridge": "^3.0"
