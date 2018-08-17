@@ -12,7 +12,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "php-ffmpeg/php-ffmpeg": "master",
+        "php-ffmpeg/php-ffmpeg": "master@dev",
         "symfony/dependency-injection": "^3.4",
         "symfony/framework-bundle": "^3.4"
     },
